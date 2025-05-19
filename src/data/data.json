@@ -1,0 +1,126 @@
+{
+    "translations": {
+        "en": {
+            "header": {
+                "home": "Home",
+                "portfolio": "Portfolio",
+                "contact": "Contact"
+            },
+            "profile": "Hey, I'm Nikita Pugachev",
+            "profile_info": "I'm a fullstack developer with 3 years of experience. My passion for programming allows me to create modern and efficient solutions, including CRM systems on React and NodeJS. I always strive to combine usability with high performance.",
+            "hobby": "My Hobbies",
+            "hobby_info": "I am passionate about everything related to technology: from software design and development to understanding how the many parts of the internet work together. I'm also actively interested in cybersecurity, process automation, and much more. Every day, I try to learn something new and apply my knowledge to create useful tools.",
+            "technologies": "Technologies",
+            "technologies_info": "I use various tools to optimize the development process and improve the quality of my code. Below is a list of technologies and languages I've worked with or am currently using.",
+            "projects": "Projects",
+            "projects_info": "In my free time, I create open-source projects on GitHub to share my knowledge and learn from others.",
+            "chat": "Leave a request",
+            "chat_info": "Have any questions or want to get in touch? Feel free to leave a message below, or contact me via Discord, Twitter, or email.",
+            "time": [
+                "It's currently",
+                "for me, so I'm probably",
+                "awake",
+                "sleeping",
+                ". I'll get back to you as soon as I can."
+            ],
+            "portfolio": {
+                "title": "Portfolio",
+                "subtitle": "Projects created by me or in which I participated.",
+                "projects": {
+                    "deren": {
+                        "name": "creo.deren.com.ua",
+                        "href": "https://github.com/Brave-Gadolinium ",
+                        "tools": ["HTML", "CSS", "Sass", "JavaScript"],
+                        "description": "Developed a landing page promoting a new course on creative content development. Worked with media queries and responsive design techniques to ensure a mobile-first approach, catering to users on both desktop and mobile. Contributed to a 70% growth in course enrollment within the first launch month."
+                    },
+                    "meyes": {
+                        "name": "meyes.app",
+                        "href": "https://github.com/Brave-Gadolinium ",
+                        "tools": ["HTML", "CSS", "Sass", "JavaScript", "Python"],
+                        "description": "Developed a responsive landing page for a startup called Meyes using HTML, CSS, and JavaScript. Integrated video backgrounds, custom animations, and device detection to correctly display the appropriate store button, increasing user engagement and improving visual appeal."
+                    },
+                    "doe": {
+                        "name": "doe.app",
+                        "href": null,
+                        "tools": ["TypeScript", "React", "Redux", "Less"],
+                        "description": "Participated in the development of React components for doe.app, creating reusable and flexible UI elements, implementing state management with Redux, optimizing performance, and integrating the application with the backend via API."
+                    },
+                    "shop-bakery": {
+                        "name": "shop-bakery.com",
+                        "href": "https://github.com/Brave-Gadolinium",
+                        "tools": ["HTML", "CSS", "Sass", "JavaScript"],
+                        "description": "Developed a personal project as part of a course on genius.space, creating a landing page using HTML, CSS, and JavaScript. Explored responsive web design, worked on animations, and implemented user interactions with JavaScript."
+                    }
+                }
+            },
+            "contact_me": {
+                "thanks": "Thanks for reaching out! I'll get back to you soon.",
+                "email": "EMAIL",
+                "message": "MESSAGE",
+                "message_placeholder": "Hi Nikita, how are things?",
+                "send": "Send"
+            }
+        },
+        "ru": {
+            "header": {
+                "home": "Главная",
+                "portfolio": "Портфолио",
+                "contact": "Контакты"
+            },
+            "profile": "Привет, я Никита Пугачев",
+            "profile_info": "Я fullstack-разработчик с 3-летним опытом работы. Моя страсть к программированию позволяет мне создавать современные и эффективные решения, включая CRM-системы на React и NodeJS. Я всегда стремлюсь сочетать удобство использования с высокой производительностью.",
+            "hobby": "Мои увлечения",
+            "hobby_info": "Я увлекаюсь всем, что связано с технологиями: от проектирования и разработки программного обеспечения до изучения того, как различные части интернета работают вместе. Я также активно интересуюсь кибербезопасностью, автоматизацией процессов и многим другим. Каждый день я стараюсь узнавать что-то новое и применять свои знания для создания полезных инструментов.",
+            "technologies": "Технологии",
+            "technologies_info": "Я использую различные инструменты для оптимизации процесса разработки и повышения качества моего кода. Ниже приведен список технологий и языков, с которыми я работал или работаю сейчас.",
+            "projects": "Проекты",
+            "projects_info": "В свободное время я создаю open-source проекты на GitHub, чтобы делиться своими знаниями и учиться у других.",
+            "chat": "Оставить заявку",
+            "chat_info": "Есть вопросы или хотите связаться? Не стесняйтесь оставлять сообщение ниже, либо свяжитесь со мной через Discord, Twitter или электронную почту.",
+            "time": [
+                "Сейчас",
+                "по Московскому времени, так что я, скорее всего,",
+                "не сплю",
+                "сплю",
+                ". Отвечу, как только смогу."
+            ],
+            "portfolio": {
+                "title": "Портфолио",
+                "subtitle": "Проекты, созданные мной или в которых я принимал участие.",
+                "projects": {
+                    "deren": {
+                        "name": "creo.deren.com.ua",
+                        "href": "https://github.com/Brave-Gadolinium",
+                        "tools": ["HTML", "CSS", "Sass", "JavaScript"],
+                        "description": "Разработал лендинг для продвижения нового курса по созданию креативного контента. Работал с медиа-запросами и адаптивным дизайном, чтобы обеспечить подход mobile-first для пользователей как настольных, так и мобильных устройств. Лендинг обеспечил рост количества зарегистрированных на курс на 70% в течение первого месяца после запуска."
+                    },
+                    "meyes": {
+                        "name": "meyes.app",
+                        "href": "https://github.com/Brave-Gadolinium ",
+                        "tools": ["HTML", "CSS", "Sass", "JavaScript", "Python"],
+                        "description": "Разработал адаптивную целевую страницу для стартапа Meyes, используя HTML, CSS и JavaScript. Интегрировал видеофон, кастомные анимации и определение устройства для правильного отображения соответствующей кнопки магазина, увеличивая вовлеченность пользователей и улучшая визуальную привлекательность."
+                    },
+                    "doe": {
+                        "name": "doe.app",
+                        "href": "https://github.com/Brave-Gadolinium",
+                        "tools": ["TypeScript", "React", "Redux", "Less"],
+                        "description": "Участвовал в разработке React-компонентов для doe.app, создавая повторно используемые и гибкие UI-элементы, реализуя управление состоянием с помощью Redux, оптимизируя производительность и интегрируя приложение с бэкендом через API."
+                    },
+                    "shop-bakery": {
+                        "name": "shop-bakery.com",
+                        "href": "https://github.com/Brave-Gadolinium",
+                        "tools": ["HTML", "CSS", "Sass", "JavaScript"],
+                        "description": "Разработал личный проект в рамках учебного курса genius.space, создав лендинг с использованием HTML, CSS и JavaScript. Исследовал адаптивный веб-дизайн, работал над анимациями и реализовал взаимодействие с пользователем через JavaScript."
+                    }
+                }
+            },
+            "contact_me": {
+                "thanks": "Спасибо, что обратились! Я скоро свяжусь с вами.",
+                "email": "ПОЧТА",
+                "message": "СООБЩЕНИЕ",
+                "message_placeholder": "Привет Никита, как дела?",
+                "send": "Отправить"
+            }
+        }
+    }
+}
